@@ -7,8 +7,8 @@
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['2348187637779']
-global.ownMain = '2348187637779'
+global.owner = ['2348168712788']
+global.ownMain = '2348168712788'
 global.NamaOwner = 'Es Teams Tech' //gausah diganti
 global.sessionName = 'sessionnya'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
@@ -24,8 +24,8 @@ global.mess = { // Custom Sesuka Lu
 ingroup: 'Stinger V3  can only be used in groups.',
 admin: 'Stinger V3 is specifically for group admins.',
 notadmin: "Stinger V3 must be an admin first",
-owner: 'You are not Es Teams .',
-premium: 'You are not a premium user.',
+owner: '2348168712788',
+premium: '2348168712788',
 seller: 'This feature can only be used by resellers and owners.',
 usingsetpp: `Setpp can only be used by the owner, do you think I'm stupid?`,
 wait: '*Waiting for processing*',
